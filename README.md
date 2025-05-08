@@ -14,7 +14,7 @@ The Model Context Protocol (developed by [Anthropic](https://github.com/anthropi
 
 ## 🧰 Frameworks that facilitate MCP
 
-- [Official Model Context Protocol](https://github.com/modelcontextprotocol) SDKs to start building:
+- Official Model Context Protocol SDKs:
   - [Typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
   - [Rust-sdk](https://github.com/modelcontextprotocol/rust-sdk)
   - [Csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk)
