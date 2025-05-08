@@ -12,6 +12,18 @@ The Model Context Protocol (developed by [Anthropic](https://github.com/anthropi
 - Design custom LLM prompts and define interactions (e.g., resuable templates)
 - And more...
 
+## 🧰 Frameworks that facilitate MCP
+
+- [Official Model Context Protocol](https://github.com/modelcontextprotocol) SDKs to start building:
+  - [Typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
+  - [Rust-sdk](https://github.com/modelcontextprotocol/rust-sdk)
+  - [Csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk)
+  - [Java-sdk](https://github.com/modelcontextprotocol/java-sdk)
+  - [Kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk)
+  - [Python-sdk](https://github.com/modelcontextprotocol/python-sdk)
+  - [Swift-sdk](https://github.com/modelcontextprotocol/swift-sdk)
+- [FastMCP](github.com/jlowin/fastmcp): Pythonic way to build MCP servers and clients.
+
 ## 🖥️ Servers
 - [Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers): a collection of reference implementations for MCP and servers that are community built.
 
